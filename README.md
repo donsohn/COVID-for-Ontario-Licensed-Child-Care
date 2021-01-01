@@ -16,6 +16,7 @@ As at 2020/12/30:
 ![](barchart.jpeg?raw=true)
 
 Year to Date 2020/12/30:
+(Note: Interactive map in the Jupyter Notebook using ArcGIS)
 
 ![](map.jpeg?raw=true)
 
