@@ -11,8 +11,8 @@ Using Python I will attempt to build some visualizations using this data as the 
 
 Please do not accept these visualizations as the final truth, but rather as a tool to aid you in further research, to ultimately make your own informed decision.
 
-![Alt text](COVID-for-Toronto-Licensed-Child-Care/barchart.jpeg?raw=true "Optional Title")
-
+![](barchart.jpeg?raw=true)
+![](map.jpeg?raw=true)
 
 ### Data Sources
 
