@@ -13,9 +13,9 @@ Please do not accept these visualizations as the final truth, but rather as a to
 
 Data Sources
 
-Ontario COVID cases in Licensed Childcare Centres:
+Ontario COVID cases in Licensed Childcare Centres:<br>
 https://data.ontario.ca/dataset/5bf54477-6147-413f-bab0-312f06fcb388/resource/eee282d3-01e6-43ac-9159-4ba694757aea/download/lccactivecovid.csv
 
-Toronto Licensed Childcare Centres (for addresses + longitude/latitude coordinates):
+Toronto Licensed Childcare Centres (for addresses + longitude/latitude coordinates):<br>
 https://data.ontario.ca/dataset/5bf54477-6147-413f-bab0-312f06fcb388/resource/eee282d3-01e6-43ac-9159-4ba694757aea/download/lccactivecovid.csv
 
