@@ -11,10 +11,10 @@ Using Python I will attempt to build some visualizations using this data as the 
 
 Please do not accept these visualizations as the final truth, but rather as a tool to aid you in further research, to ultimately make your own informed decision.
 
-As at 2020/12/30:
+As at 2020/12/30:<br>
 ![](barchart.jpeg?raw=true)
 
-Year to Date 2020/12/30:
+Year to Date 2020/12/30:<br>
 ![](map.jpeg?raw=true)
 
 ### Data Sources
