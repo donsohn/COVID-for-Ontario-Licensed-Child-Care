@@ -2,7 +2,7 @@
 
 Under construction
 
-Not sure where this will take me but whether you're a parent, caregiver, or interest party; COVID is likely a factor in your decision whether or not to send your child to child care.
+Whether you're a parent, caregiver, or other interested party; COVID is likely a factor in your decision whether or not to send your child to child care.
 
 Using Python I will attempt to build some visualizations using this data as the foundation but more specifically for Toronto region.
 
