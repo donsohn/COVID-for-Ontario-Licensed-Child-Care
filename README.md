@@ -10,12 +10,12 @@ Please do not accept these visualizations as the final truth, but rather as a to
 
 As at 2020/12/30:
 
-![](barchart.jpeg?raw=true)
+![](/images/barchart.jpeg?raw=true)
 
 Year to Date 2020/12/30:
 (Note: Interactive map in the Jupyter Notebook using ArcGIS)
 
-![](map.jpeg?raw=true)
+![](/images/map.jpeg?raw=true)
 
 ### Data Sources
 
