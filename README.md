@@ -1,4 +1,4 @@
-# COVID-for-Ontario-Licensed-Child-Care
+# COVID for Toronto Licensed Child Care
 
 Under construction
 
