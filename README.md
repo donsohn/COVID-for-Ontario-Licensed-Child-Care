@@ -3,6 +3,7 @@
 Under construction
 
 Whether you're a parent, caregiver, or other interested party; COVID is likely a factor in your decision whether or not to send your child to child care.
+Reporting of cases in Ontario's LCCs began in September 2020.
 
 Using Python I will attempt to build some visualizations using this data as the foundation but more specifically for Toronto region.
 
