@@ -10,3 +10,12 @@ https://www.ontario.ca/page/covid-19-cases-schools-and-child-care-centres#sectio
 Using Python I will attempt to build some visualizations using this data as the foundation but more specifically for Toronto region.
 
 Please do not accept these visualizations as the final truth, but rather as a tool to aid you in further research, to ultimately make your own informed decision.
+
+Data Sources
+
+Ontario COVID cases in Licensed Childcare Centres:
+https://data.ontario.ca/dataset/5bf54477-6147-413f-bab0-312f06fcb388/resource/eee282d3-01e6-43ac-9159-4ba694757aea/download/lccactivecovid.csv
+
+Toronto Licensed Childcare Centres (for addresses + longitude/latitude coordinates):
+https://data.ontario.ca/dataset/5bf54477-6147-413f-bab0-312f06fcb388/resource/eee282d3-01e6-43ac-9159-4ba694757aea/download/lccactivecovid.csv
+
